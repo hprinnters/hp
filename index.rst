@@ -2,7 +2,7 @@
 123.hp.com/setup - Setup and Installation | HP wireless printer setup windows & mac
 #############
 
-The HP Wireless Printer is easy to set up and provides clear documentation. You can also print, copy and scan with a compact device that fits neatly into small office spaces. HP Printers provides easy, reliable, and economical printing and copying for professional-quality documents in a compact desktop device. To get simple installation setup guidelines, visit the link **123.hp.com/setup** below.
+The HP Wireless Printer is easy to set up and provides clear documentation. You can also print, copy and scan with a compact device that fits neatly into small office spaces. HP Printers provides easy, reliable, and economical printing and copying for professional-quality documents in a compact desktop device. To get simple installation setup guidelines, visit the link `123.hp.com/setup <https://123-hp-comsetup.readthedocs.io/en/latest/index.html>`_ below.
     
 .. image:: button-removebg-preview.png
     :width: 350px
@@ -18,7 +18,7 @@ Downloading HP printer drivers from **123.hp.com/setup**.
 
 **Mention the below steps to download HP printer drivers**
 
-1. Download HP Printer Drivers from **123.hp.com/setup**.
+1. Download HP Printer Drivers from `123.hp.com/setup <https://123-hp-comsetup.readthedocs.io/en/latest/index.html>`_.
 2. Open your web browser and type 123.hp.com/setup
 3. Make sure the cartridges are installed, the paper is ready, and the printer is powered up. To get the recommended software for your printer, click Download.
 4. Enter the HP Printer model number in the space provided
@@ -42,7 +42,7 @@ Easygoing Steps for 123 HP Printer Setup and Installation
 Hp printer wireless setup for windows
 ===========
 
-1. Turn on your **123.hp.com/setup** printer and computer.
+1. Turn on your `123.hp.com/setup <https://123-hp-comsetup.readthedocs.io/en/latest/index.html>`_ printer and computer.
 2. Make sure you connect them to the same wireless network.
 3. Place them closer to the router for better signal strength.
 4. The method used here is the Wireless Setup Wizard. Look for the icon on the printer's control panel.
