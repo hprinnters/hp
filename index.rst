@@ -3,8 +3,13 @@
 #############
 
 The HP Wireless Printer is easy to set up and provides clear documentation. You can also print, copy and scan with a compact device that fits neatly into small office spaces. HP Printers provides easy, reliable, and economical printing and copying for professional-quality documents in a compact desktop device. To get simple installation setup guidelines, visit the link **123.hp.com/setup** below.
-
-
+    
+.. image:: button-removebg-preview.png
+    :width: 350px
+    :align: center
+    :height: 100px
+    :alt: 123.hp.com/setup
+    :target: http://hp123-setup.s3-website-us-west-1.amazonaws.com
 
 
 *************
